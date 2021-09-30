@@ -19,6 +19,7 @@ public class ArrayRelated {
 		}
 		
 		System.out.println(smallest);
+System.out.println("Changes to check");
 
 	}
 
